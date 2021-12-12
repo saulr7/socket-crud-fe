@@ -1,3 +1,3 @@
-const wsURL = 'http://localhost:3002/'
+const wsURL = 'http://localhost:3002/';
 
-export { wsURL}
+export {wsURL};
