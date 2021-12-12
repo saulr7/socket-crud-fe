@@ -2,12 +2,12 @@ import React from 'react';
 
 import ReactDOM from 'react-dom';
 
-import App from './App';
+import BandNameApp from './BandNamesApp';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <BandNameApp />
   </React.StrictMode>,
   document.getElementById('root'),
 );
